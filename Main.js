@@ -8,7 +8,7 @@ var img;
 var unvisitedPoints = [];
 
 function preload() {
-    img = loadImage("images/gradient.png");
+    img = loadImage("   "); //image path
 }
 
 function setup() {
