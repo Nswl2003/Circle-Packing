@@ -1,6 +1,6 @@
 const circlesPerFrame = 1;
-const initialRad = 5;
-const fullness = 1000;
+const initialRad = 5;   //radius circles are initialized with
+const fullness = 1000;  //amount of attempts to find new location for a circle
 var circles = [];
 var startPacking = false;
 var complete = false;
